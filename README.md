@@ -5,8 +5,11 @@ Growtopia android modmenu with ImGUI.
 ## Features
 - Built with [ImGUI](https://github.com/ocornut/imgui).
 
+
 ## Coming Soon
-- None
+- Mod fly
+- Anti Respawn
+- Nightvision
 
 ## Requirements
 The following dependencies are required to build the library from source.
